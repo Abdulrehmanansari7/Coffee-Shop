@@ -1,0 +1,89 @@
+*{
+    font-family: "Poppins", sans-serif;;
+}
+.bg-c{
+    background-color: rgba(20, 2, 0, 0.8);
+    }
+.nav-margin{
+    margin-left: 100px;
+    position: absolute;
+    bottom: 20px;
+}
+.bg-img{
+    background-image: url(images/header-bg.jpg.webp);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.energy{
+    margin-top: 100px;
+}
+.head{
+    font-size: 60px;
+}
+.bg-img2{
+    background-image: url(images/video-bg.jpg.webp);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.live{
+    font-weight: 300;
+    font-size: 12px ;
+    color: #b68834;
+    letter-spacing: 2px;
+}
+.pa{
+    top: 45%;
+    left: 40%;
+}
+.bg-img-coffee{
+    background-image: url(images/bg-coffee.jpg);
+    background-size: cover;
+}
+.what{
+    padding-top: 120px;
+}
+.in-grid{
+    color: #b68834;
+}
+.p-grid{
+    padding-top: 30px;
+    padding-right:  30px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+.gallery-area img{
+    margin-bottom: 30px;
+}
+.color{
+    background-color: #b68834;
+    margin-top: 100px;
+}
+.star{
+    color: orange;
+}
+.star-1{
+    color: white;
+}
+.margin-no{
+    margin: 100px 0px;
+}
+.footer-bg{
+    background-image: url(images/footer-bg.jpg.webp);
+    height: 75vh;
+    background-position: center;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+footer{
+    padding: 20% 0;
+}
+.footer-font{
+    font-size: 14px;
+}
+.form-round{
+    border-radius: 0 !important;
+    width: 300px;
+}
