@@ -36,7 +36,16 @@
     background-repeat: no-repeat;
     background-position: cover;
 }
-
+.bg-img2::after {
+    content:"" ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 87%;
+    background-color: rgb(0,0,0,0.6);
+    border-radius: 10px;
+}
 .live {
     font-weight: 300;
     font-size: 12px;
